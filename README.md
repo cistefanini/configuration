@@ -10,7 +10,7 @@ import { IonicApp, IonicModule } from 'ionic-angular';
 import { MyApp } from './app.component';
 
 // import ConfigurationModule
-import { ConfigurationModule } from '@ramonornela/configuration';
+import { ConfigurationModule } from '@stefanini/configuration';
 
 export const APP_CONFIG = {
   'my-config': 'My Config',
