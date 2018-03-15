@@ -2,7 +2,7 @@
 
 This allow define configuration in the app with object, file json (local or external) or custom strategy (ex: yaml)
 
-## Using  in an Ionic 2 app
+## Using  in an Angular4 app
 
 ```typescript
 import { NgModule } from '@angular/core';
